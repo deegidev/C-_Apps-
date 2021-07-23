@@ -1,0 +1,16 @@
+google
+cloud
+azure
+microsoft
+sql
+database
+firefox
+netscape
+myworld
+algorithm
+object
+class
+seacrest
+multiplicity
+associativity
+amazon
